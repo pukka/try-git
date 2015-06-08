@@ -11,4 +11,12 @@ public class Application extends Controller {
         return ok(index.render("Your new application is ready."));
     }
 
+    public static Result tasks() {
+    	return TODO;
+    }
+
+    public static Result newTask() {
+    	return TODO;
+    }
+
 }
