@@ -1,3 +1,3 @@
 if (window.console) {
-  console.log("更新２Welcome to your Play application's JavaScript!");
+  console.log("Welcome to your Play application's JavaScript!");
 }
